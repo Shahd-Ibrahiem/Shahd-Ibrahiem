@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hi, I'm Shahd Ibrahiem 👋</h1>
+  <h1>Hello, I'm Shahd Ibrahiem 👋</h1>
   <h3>Software Developer | Android Developer | AI & ML Instructor</h3>
   
   <p>
-    <img src="https://img.shields.io/badge/Assiut%20University-Computer%20Science-blue?style=flat-square&logo=google-scholar" alt="Education" />
+    <img src="https://img.shields.io/badge/Assiut%20University-Computer%20Science-ff69b4?style=flat-square&logo=google-scholar&logoColor=ff69b4" alt="Education"/>
   </p>
 
   <p>
